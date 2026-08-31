@@ -1,4 +1,4 @@
-// day of week using switch
+// Q20: Program to display the day of the week using switch-case.
 #include <stdio.h>
 
 int main() {
