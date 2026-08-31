@@ -1,4 +1,4 @@
-// to display month 
+// Q21: Program to display the month name and number of days using switch-case.
 #include <stdio.h>
 
 int main() {
