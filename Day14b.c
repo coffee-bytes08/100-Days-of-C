@@ -1,3 +1,4 @@
+// Q28: Program to find the product of even numbers from 1 to n.
 #include <stdio.h>
 
 int main() {
