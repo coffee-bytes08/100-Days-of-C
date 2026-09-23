@@ -1,3 +1,4 @@
+// Q38: Program to find the sum of the digits of a number.
 #include <stdio.h>
 
 int main() {
