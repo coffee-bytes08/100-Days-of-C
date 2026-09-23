@@ -1,3 +1,4 @@
+// Q39: Program to find the product of the odd digits of a number.
 #include <stdio.h>
 
 int main() {
