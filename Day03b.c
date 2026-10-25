@@ -1,3 +1,5 @@
+// swapping two using third variable
+
 #include <stdio.h>
 
 int main() {
